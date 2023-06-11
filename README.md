@@ -4,5 +4,5 @@ the application is a time quiz that displays multiple questions and the user cho
 
 # links
 
-deployed application: https://jacquesmartial.github.io/password-generator/
+deployed application: https://jacquesmartial.github.io/code-quiz/
 github repository : https://github.com/jacquesMartial/code-quiz
