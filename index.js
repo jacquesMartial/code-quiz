@@ -77,15 +77,6 @@ function endQuiz() {
   });
 }
 
-function answerChecking() {
-  if (currentAnswer === currentQuestion) {
-    console.log("correct!");
-  } else {
-    console.log("wrong!");
-  }
-}
-answerStateEl.textContent = answerChecking;
-
 var renderQuestion = function () {
   questionTitle.innerHTML = "";
   answersContainer.innerHTML = ""; //this is  removing any html from the targeted element (empties the answers element/removes the old button)
