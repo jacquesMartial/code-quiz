@@ -1,2 +1,8 @@
 # code-quiz
- a timed quiz on JavaScript fundamentals that stores high scores so that the user can gauge my progress compared to my peers
+
+the application is a time quiz that displays multiple questions and the user chooses the correct answer. At the end of the quiz the score is stored and displayed with the current user's infos.
+
+# links
+
+deployed application: https://jacquesmartial.github.io/password-generator/
+github repository : https://github.com/jacquesMartial/code-quiz
